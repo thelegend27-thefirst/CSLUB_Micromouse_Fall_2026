@@ -1,5 +1,4 @@
 #include "gpio_driver.h"
-#include "stm32f4xx_hal_gpio.h"
 #include <stdint.h>
 
 void Enable_GPIO_Clk(GPIO_TypeDef* GPIOx, uint16_t GPIO_Pin){
