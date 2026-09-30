@@ -31,3 +31,8 @@ if you get this error it means you have to ctrl + shift + p
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/5b46e026-30b3-402d-bfeb-0188d7f5edc6" />
 
+if auto complete isn't working, it may be because of ctrl + shift + p
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/57c687b5-59cd-4397-bda5-9ddc8e5f6fe6" />
+
+
